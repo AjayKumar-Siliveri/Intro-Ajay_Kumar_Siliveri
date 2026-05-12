@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Ajay Kumar Siliveri
 #### I am a Cloud DevOps Engineer Specialing in AWS, Devops practices, and Python scripting.
-
-I am a Cloud DevOps Engineer with over 4.8years of experience in IT, specializing in AWS, DevOps practices, and Python scripting.  
+ 
 - I have strong skills in designing and implementing CI/CD pipelines, automating cloud infrastructure using CloudFormation and Terraform, and deploying containerized   applications with Docker, and ECS
 - I enjoy writing Python scripts to automate deployment validation and testing, which helps improve reliability and speed in releases.  
 - I have worked in Agile teams, collaborating closely with developers, QA, and operations to deliver high-quality solutions.  
